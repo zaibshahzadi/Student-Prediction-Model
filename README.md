@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/zaibshahzadi/zaibshahzadi/blob/main/github%20bannar.png" width="100%" />
+</p>
+
 #  Student Performance Prediction System
 
 <p align="center">

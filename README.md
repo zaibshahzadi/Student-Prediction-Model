@@ -22,13 +22,13 @@ This project demonstrates the complete Machine Learning workflow, from data prep
 
 ##  Features
 
-- 🎯 Predicts student performance (Pass / Fail)
-- 📊 Displays prediction confidence percentage
-- ⭐ Shows student performance level
-- 💡 Generates personalized improvement suggestions
-- 📈 Interactive confidence gauge chart
-- 🖥 User-friendly Streamlit interface
-- ⚡ Fast predictions using a trained Machine Learning model
+-  Predicts student performance (Pass / Fail)
+-  Displays prediction confidence percentage
+-  Shows student performance level
+-  Generates personalized improvement suggestions
+-  Interactive confidence gauge chart
+-  User-friendly Streamlit interface
+-  Fast predictions using a trained Machine Learning model
 
 ---
 
@@ -54,24 +54,21 @@ The model is trained on a student performance dataset containing academic and de
 
 ### Input Features
 
+- Student_ID
 - Gender
-- Study Hours per Week
-- Attendance Rate
-- Past Exam Scores
-- Parental Education Level
-- Internet Access at Home
-- Extracurricular Activities
-- Previous Academic Performance
-- Family Support
-- Motivation Level
-- Learning Resources
-- Sleep Hours
-- And other academic factors
+- Study_Hours_per_Week
+- Attendance_Rate
+- Past_Exam_Scores
+- Parental_Education_Level
+- Internet_Access_at_Home
+- Extracurricular_Activities
+- Final_Exam_Score
+- Pass_Fail (Target Variable)
 
 ### Target Variable
 
-- ✅ Pass
-- ❌ Fail
+-  Pass
+-  Fail
 
 ---
 
@@ -99,6 +96,22 @@ The model is trained on a student performance dataset containing academic and de
 
 ---
 
+##  Model Performance Comparison
+
+| Machine Learning Model | Accuracy |
+|-------------------------|:--------:|
+|  Random Forest | **██████████████████ 88.03%**  Best Model |
+|  Gradient Boosting | **█████████████████░ 86.62%** |
+|  XGBoost | **█████████████████░ 86.62%** |
+|  Decision Tree | **████████████████░░ 84.51%** |
+|  K-Nearest Neighbors (KNN) | **███████████████░░░ 80.28%** |
+|  Support Vector Machine (SVM) | **██████████████░░░░ 79.58%** |
+|  Logistic Regression | **█████████████░░░░░ 78.17%** |
+|  Naive Bayes | **████████████░░░░░░ 77.46%** |
+
+ **Random Forest achieved the highest accuracy (88.03%) and was selected as the final model for deployment in the Streamlit web application.**
+
+---
 ##  Project Structure
 
 ```text

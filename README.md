@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://github.com/zaibshahzadi/zaibshahzadi/blob/main/github%20bannar.png" width="100%" />
-</p>
-
 #  Student Performance Prediction System
+
+<p align="center">
+  <img src="https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/github%20bannar%203.png" width="100%" />
+</p>
 
 <p align="center">
   <h3 align="center">AI-powered Student Performance Prediction using Machine Learning & Streamlit</h3>

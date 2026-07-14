@@ -161,27 +161,27 @@ streamlit run app.py
 
 ###  Home Page
 
-https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/home-page.png
+https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/home%20page.png
 
 ---
 
 ###  Pass Prediction
 
-https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/pass-prediction.png
+https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/pass%20prediction.png
 
 ---
 
 ###  Fail Prediction
 
-https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/fail-prediction.png
+https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/fail%20prediction.png
 
 ---
 
 ###  Personalized Suggestions
 
-https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/pass-prediction-suggestion.png
+https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/pass%20prediction.png
 
-https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/fail-prediction-suggestion.png
+https://github.com/zaibshahzadi/Student-Prediction-Model/blob/main/fail%20prediction.png
 
 ---
 
